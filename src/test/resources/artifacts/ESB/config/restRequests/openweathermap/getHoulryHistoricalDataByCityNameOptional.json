@@ -1,0 +1,11 @@
+{
+  "apiUrl": "%s(apiUrl)",
+  "apiVersion": "%s(apiVersion)",
+  "apiKey": "%s(apiKey)",
+  "cityName": "%s(cityName)",
+  "countryCode": "%s(countryCode)",
+  "types": "%s(types)",
+  "start": "%s(start)",
+  "end": "%s(end)",
+  "cnt": "%s(cnt)"
+}
