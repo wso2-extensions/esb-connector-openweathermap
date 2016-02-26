@@ -42,7 +42,7 @@ public class openweathermapConnectorIntegrationTest extends ConnectorIntegration
     @BeforeClass(alwaysRun = true)
     public void setEnvironment() throws Exception {
 
-        init("openweathermap-connector-1.0.0");
+        init("openweathermap-connector-1.0.1-SNAPSHOT");
         esbRequestHeadersMap.put("Accept-Charset", "UTF-8");
         esbRequestHeadersMap.put("Content-Type", "application/json");
         apiRequestHeadersMap.put("Content-Type", "application/x-www-form-urlencoded");
