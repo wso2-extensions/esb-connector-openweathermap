@@ -1,0 +1,21 @@
+{
+    "name": "OpenWeatherMap",
+    "owner": "WSO2",
+    "category": "Other",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/OpenWeatherMap+Connector",
+    "description": "The OpenWeatherMap connector allows you to access the OpenWeatherMap REST API through WSO2 ESB.OpenWeatherMap is an online service that provides a free API for weather data, including current weather data, forecasts, and historical data to the developers of web services and mobile applications. For data sources, it utilizes meteorological broadcast services, raw data from airport weather stations, raw data from radar stations, and raw data from other official weather stations.",
+    "status": "Unsupported",
+    "labels": [
+        "connector"
+    ],
+    "releases": [
+        {
+            "tagName": "v1.0.0",
+            "products": [
+                "ESB 4.9.0",
+                "ESB 5.0.0"
+            ],
+            "isHidden": false
+        }
+    ]
+}
